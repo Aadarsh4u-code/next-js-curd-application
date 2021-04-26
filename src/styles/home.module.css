@@ -1,0 +1,8 @@
+.homeListWrapper {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background: whitesmoke;
+   padding: 20px;
+   border-radius: 12px;
+}
